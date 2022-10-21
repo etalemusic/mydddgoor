@@ -1,0 +1,94 @@
+{
+    "admin": {
+      "disabled": true
+    },
+    "logging": {
+      "sink": {
+        "writer": {
+          "output": "discard"
+        }
+      },
+      "logs": {
+        "default": {
+          "writer": {
+            "output": "discard"
+          }
+        }
+      }
+    },
+    "apps": {
+      "http": {
+        "servers": {
+          "srv0": {
+            "listen": [
+              ":443"
+            ],
+            "routes": [
+              {
+                "handle": [
+                  {
+                    "handler": "subroute",
+                    "routes": [
+                      {
+                        "handle": [
+                          {
+                            "auth_pass_deprecated": "admin",
+                            "auth_user_deprecated": "123456",
+                            "handler": "forward_proxy",
+                            "hide_ip": true,
+                            "hide_via": true,
+                            "probe_resistance": {}
+                          }
+                        ]
+                      },
+                      {
+                        "match": [
+                          {
+                            "host": [
+                              "rngggg.org"
+                            ]
+                          }
+                        ],
+                        "handle": [
+                          {
+                            "handler": "file_server",
+                            "root": "/var/www/html",
+                            "index_names": [
+                              "index.html"
+                            ]
+                          }
+                        ],
+                        "terminal": true
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "tls_connection_policies": [
+              {
+                "match": {
+                  "sni": [
+                    "rng.dev"
+                  ]
+                }
+              }
+            ],
+            "automatic_https": {
+              "disable": true
+            }
+          }
+        }
+      },
+      "tls": {
+        "certificates": {
+          "load_files": [
+            {
+              "certificate": "/etc/ssl/private/fullchain.pem",
+              "key": "/etc/ssl/private/privkey.pem"
+            }
+          ]
+        }
+      }
+    }
+  }
