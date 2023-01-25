@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1,CCTV1 HD
+http://112.17.40.145/PLTV/88888888/224/3221226154/index.m3u8
+#EXTINF:-1,CCTV2 HD
+http://112.17.40.145/PLTV/88888888/224/3221226138/index.m3u8
+#EXTINF:-1,CCTV3 HD
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1,CCTV4 HD
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1,CCTV5 HD
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1,CCTV6 HD
+http://112.17.40.145/PLTV/88888888/224/3221226433/index.m3u8
+#EXTINF:-1,CCTV7 HD
+http://112.17.40.145/PLTV/88888888/224/3221226122/index.m3u8
+#EXTINF:-1,CCTV8 HD
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1,CCTV9 HD
+http://112.17.40.145/PLTV/88888888/224/3221226156/index.m3u8
+#EXTINF:-1,CCTV10 HD
+http://112.17.40.145/PLTV/88888888/224/3221226199/index.m3u8
+#EXTINF:-1,CCTV11 HD
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001012/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1,CCTV12 HD
+http://112.17.40.145/PLTV/88888888/224/3221226167/index.m3u8
+#EXTINF:-1,CCTV13 HD
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1,CCTV14 HD
+http://112.17.40.145/PLTV/88888888/224/3221226126/index.m3u8
+#EXTINF:-1,浙江卫视 FHD
+http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
+#EXTINF:-1,浙江经济生活
+http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1,浙江新闻
+http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
+#EXTINF:-1,浙江钱江
+http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1,浙江6频道
+http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1,浙江少儿
+http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1,浙江科教影视
+http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1,江苏卫视 FHD
+http://112.17.40.140/PLTV/88888888/224/3221226140/index.m3u8
+#EXTINF:-1,湖南卫视 FHD
+http://112.17.40.140/PLTV/88888888/224/3221226162/index.m3u8
+#EXTINF:-1,东方卫视 FHD
+http://112.17.40.140/PLTV/88888888/224/3221226142/index.m3u8
+#EXTINF:-1,山东卫视 FHD
+http://112.17.40.140/PLTV/88888888/224/3221226144/index.m3u8
+#EXTINF:-1,湖北卫视 FHD
+http://112.17.40.140/PLTV/88888888/224/3221226197/index.m3u8
+#EXTINF:-1,天津卫视 FHD
+http://112.17.40.140/PLTV/88888888/224/3221226182/index.m3u8
+#EXTINF:-1,黑龙江卫视 FHD
+http://112.17.40.140/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1,广东卫视 FHD
+http://112.17.40.140/PLTV/88888888/224/3221226225/index.m3u8
+#EXTINF:-1,江西卫视 FHD
+http://112.17.40.140/PLTV/88888888/224/3221226557/index.m3u8
+#EXTINF:-1,重庆卫视 HD
+http://112.17.40.140/PLTV/88888888/224/3221226217/index.m3u8
+#EXTINF:-1,安徽卫视 FHD
+http://112.17.40.140/PLTV/88888888/224/3221226185/index.m3u8
+#EXTINF:-1,北京卫视 FHD
+http://112.17.40.140/PLTV/88888888/224/3221226164/index.m3u8
