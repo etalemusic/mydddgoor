@@ -43,3 +43,7 @@ https://www.aliyundrive.com/s/kpMYJTP6sSA/folder/628dae1104f9f35d22f94e62ab581d0
 
 dns泛域名证书申请命令：
 sudo certbot certonly --manual --preferred-challenges=dns-01
+
+
+
+fiddler everywhere下载链接：https://downloads.getfiddler.com/mac/Fiddler%20Everywhere%204.0.1.dmg
