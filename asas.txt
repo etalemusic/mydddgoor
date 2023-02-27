@@ -47,3 +47,9 @@ sudo certbot certonly --manual --preferred-challenges=dns-01
 
 
 fiddler everywhere下载链接：https://downloads.getfiddler.com/mac/Fiddler%20Everywhere%204.0.1.dmg
+
+
+
+
+
+在线hmacsha-256计算：https://www.idcd.com/tool/encrypt/hmac
