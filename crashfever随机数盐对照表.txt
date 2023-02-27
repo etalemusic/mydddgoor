@@ -1,0 +1,19 @@
+A1      Brynhildr
+A2      Sculd
+A3      Gunnr
+A4      Hildr
+
+B1      Gondur
+B2      Hrist
+没有B3
+B4      Reginleif
+
+C1      Hervor
+C2      Alvitr
+C3      Ortlinde
+C4      Waltraute
+
+D1      Schwertleite
+D2      Helmwige
+D3      Siegrune
+D4      Grimgerde
