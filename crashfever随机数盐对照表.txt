@@ -5,7 +5,7 @@ A4      Hildr
 
 B1      Gondur
 B2      Hrist
-没有B3
+B3      Mist
 B4      Reginleif
 
 C1      Hervor
