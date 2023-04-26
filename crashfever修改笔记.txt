@@ -1,0 +1,36 @@
+Battle::UnitNode::setSkillPoint(int,bool)	
+
+Battle::UnitNode::setSkillPointMultiple(int,int,bool)	
+
+
+Battle::PartyNode::setCurrentHp(long long)		
+
+
+applicationDidFinishLaunching    so层签名验证
+
+Yggdrasil::NetworkManager::validateHash(Yggdrasil::TransferDataModel *)
+
+
+
+
+crash fever的sqlcipher版本：3.5.7
+
+
+
+DaA6jb7Vq33Oiwrf       数据库密码
+
+PRAGMA cipher_compatibility = 3;
+
+
+
+android:sharedUserId="com.galMag.dataViewer"
+
+
+
+
+
+
+
+
+
+
