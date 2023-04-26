@@ -8,7 +8,7 @@ Battle::PartyNode::setCurrentHp(long long)
 
 applicationDidFinishLaunching    so层签名验证
 
-Yggdrasil::NetworkManager::validateHash(Yggdrasil::TransferDataModel *)
+Yggdrasil::NetworkManager::validateHash(Yggdrasil::TransferDataModel *)   网络数据包hash验证
 
 
 
