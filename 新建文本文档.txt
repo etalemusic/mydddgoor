@@ -1,0 +1,95 @@
+
+
+
+
+IDM破解团队    423down
+
+https://xclient.info mac应用下载
+本站所有dmg、zip 打开密码均为 xclient.info
+
+
+
+https://dd.pandownload.net/accelerate/test
+
+
+
+https://weidown-my.sharepoint.cn/personal/lwimanutd_weidown_partner_onmschina_cn/_layouts/15/download.aspx?UniqueId=30052e2a-a0b4-41c2-964d-9db70f16598b&Translate=false&tempauth=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvd2VpZG93bi1teS5zaGFyZXBvaW50LmNuQDA2ZjgzNTE5LTdmYTEtNDgzMS05Yzg5LTc3MGY0NjMxYTRiMSIsImlzcyI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMCIsIm5iZiI6IjE2NTkxNDY0MzAiLCJleHAiOiIxNjU5MTUwMDMwIiwiZW5kcG9pbnR1cmwiOiJMUElVSnFnN0xpazMxMnpDMm5nbEsxK0lrMHBpRmNBbDUxdW5URjBDVVF3PSIsImVuZHBvaW50dXJsTGVuZ3RoIjoiMTY4IiwiaXNsb29wYmFjayI6IlRydWUiLCJjaWQiOiJNbU5oWXpSak1ETXRZakZpTkMwMFlqa3lMVGhsTWpjdE1UYzFObU14WWpKak9URTQiLCJ2ZXIiOiJoYXNoZWRwcm9vZnRva2VuIiwic2l0ZWlkIjoiTkRnMU1USXlaRGN0WkRZNU9TMDBNbVkyTFRreE5ESXROakV4TVdNd05qQTJNamM0IiwiYXBwX2Rpc3BsYXluYW1lIjoicGFuIiwiYXBwaWQiOiIyNDQwZmMxNS0yNDI0LTRkZjMtODc0Ny00NWUyY2FlYzNkNTUiLCJ0aWQiOiIwNmY4MzUxOS03ZmExLTQ4MzEtOWM4OS03NzBmNDYzMWE0YjEiLCJ1cG4iOiJsd2ltYW51dGRAd2VpZG93bi5wYXJ0bmVyLm9ubXNjaGluYS5jbiIsInB1aWQiOiIxMDAzMzIzMEM2ODM3MjM2IiwiY2FjaGVrZXkiOiIwaC5mfG1lbWJlcnNoaXB8MTAwMzMyMzBjNjgzNzIzNkBsaXZlLmNvbSIsInNjcCI6ImFsbGZpbGVzLndyaXRlIGFsbHByb2ZpbGVzLnJlYWQiLCJ0dCI6IjIiLCJ1c2VQZXJzaXN0ZW50Q29va2llIjpudWxsLCJpcGFkZHIiOiI1Mi4xMzAuMTAuMTYyIn0.K2h1ay9XM1JuMndPZ0g0bGZGUFU2MCtVTG5ScWZyQlUxbmpINlJ4b2VYMD0&ApiVersion=2.0
+
+
+
+
+
+bools.xml   判断是否付费
+
+
+
+
+
+
+docker run -d \
+    --name aria2-pro \
+    --restart unless-stopped \
+    --log-opt max-size=1m \
+    -e PUID=0 \
+    -e PGID=0 \
+    -e UMASK_SET=022 \
+    -e RPC_SECRET=4421 \
+    -e RPC_PORT=6800 \
+    -p 6800:6800 \
+    -e LISTEN_PORT=6888 \
+    -p 6888:6888 \
+    -p 6888:6888/udp \
+    -v /aria2-config:/config \
+    -v /aria2-downloads:/downloads \
+    p3terx/aria2-pro
+
+
+
+
+
+docker run -d \
+    --name ariang \
+    --log-opt max-size=1m \
+    --restart unless-stopped \
+    --network host \
+    p3terx/ariang --port 6880
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pandownload下载UA：Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39
+
+
+
+
+链接:https://pan.baidu.com/s/1YNHmXrHcOC5sW-ey9PYL0w密码:rhd4
+
+https://www.aliyundrive.com/s/2iKfvvps5JX
+
+
+
+
+
+
+ "id": "012e8f6d-6985-4de5-afe9-164e96a2691a",
+
+
+
+
+
+
+
+
+
+
+
